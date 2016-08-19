@@ -1,8 +1,9 @@
 .sidebar {
     position:absolute;
-    top:110; bottom:110;
+    top:10; bottom:10;
     width:250px;
     height: 600px;
     background:	#808080;
     float left;
+    color:blue;
   }
